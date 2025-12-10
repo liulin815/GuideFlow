@@ -1,22 +1,18 @@
-<div align="center">
-<h1>GuideFlow</h1>
-<h3>GuideFlow: Constraint-Guided Flow Matching for Planning in End-to-End
-Autonomous Driving</h3>
 
 <div align="center">
 <h1>GuideFlow</h1>
 <h3>GuideFlow: Constraint-Guided Flow Matching for Planning in End-to-End
 Autonomous Driving</h3>
 
-Lin Liu `<sup>`1,2 `</sup>`, Caiyan Jia `<sup>`1,2*`</sup>`, Guanyi Yu `<sup>`3,†`</sup>`, Ziying Song `<sup>`1,2*`</sup>`,
-JunQiao Li `<sup>`3 `</sup>`, Feiyang Jia `<sup>`1 `</sup>`,Peiliang Wu `<sup>`1 `</sup>`, Xiaoshuai Hao `<sup>`5 `</sup>`, Yandan Luo `<sup>`5 `</sup>`
-`<sup>`1 `</sup>` School of Computer Science and Technology, Beijing Jiaotong University
-`<sup>`2 `</sup>` Beijing Key Laboratory of Traffic Data Mining and Embodied Intelligence
-`<sup>`3 `</sup>` Qcraft,  `<sup>`4 `</sup>` Yanshan University
-`<sup>`5 `</sup>` Institute of Information Engineering, Chinese Academy of Sciences
-`<sup>`6 `</sup>` The University of Queensland
+Lin Liu <sup>1,2 </sup>, Caiyan Jia <sup>1,2*</sup>, Guanyi Yu <sup>3,†</sup>, Ziying Song <sup>1,2*</sup>,
+JunQiao Li <sup>3 </sup>, Feiyang Jia <sup>1 </sup>,Peiliang Wu <sup>1 </sup>, Xiaoshuai Hao <sup>5 </sup>, Yandan Luo <sup>5 </sup>
+<sup>1 </sup> School of Computer Science and Technology, Beijing Jiaotong University
+<sup>2 </sup> Beijing Key Laboratory of Traffic Data Mining and Embodied Intelligence
+<sup>3 </sup> Qcraft,  <sup>4 </sup>Yanshan University
+<sup>5 </sup> Institute of Information Engineering, Chinese Academy of Sciences
+<sup>6 </sup> The University of Queensland
 
-`<sup>`*`</sup>` corresponding author | †Project Lead
+<sup>*</sup> corresponding author | †Project Lead
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
@@ -33,11 +29,11 @@ JunQiao Li `<sup>`3 `</sup>`, Feiyang Jia `<sup>`1 `</sup>`,Peiliang Wu `<sup>`1
 ## Links
 
 - [Introduction](#introduction)
-- [Qualitative Results on NavHard](#Qualitative Results on NAVSIM, NuScenes and Bench2Drive)
-- [Getting Started](#Getting Started)
-- [Model Zoo on NavSimV2](#Model Zoo)
-- [Acknowledgement](#Acknowledgement)
-- [Citation](#Citation)
+- [Qualitative Results on NavHard](#vis)
+- [Getting Started](#start)
+- [Model Zoo on NavSimV2](#modelzoo)
+- [Acknowledgement](#acknowledgement)
+- [Citation](#citation)
 
 ## Introduction
 
@@ -48,7 +44,7 @@ Driving planning is a critical component of end-to-end (E2E) autonomous driving.
 <img src="imgs/overall.png"/>
 </div>
 
-## Qualitative Results on NAVSIM, NuScenes and Bench2Drive
+## <span id="vis">Qualitative Results on NAVSIM, NuScenes and Bench2Drive</span>
 
 <div align="center">
   <b>Qualitative Results on NAVSIM.</b>
@@ -59,7 +55,7 @@ Driving planning is a critical component of end-to-end (E2E) autonomous driving.
   <img src="imgs/vis_3.png"/>
 </div>
 
-## Getting Started
+## <span id="start">Getting Started</span>
 
 - [Getting started from NAVSIM environment preparation](https://github.com/autonomousvision/navsim?tab=readme-ov-file#getting-started-)
 - We are currently organizing the code, coming soon
@@ -68,7 +64,7 @@ Driving planning is a critical component of end-to-end (E2E) autonomous driving.
 
 GuideFlow is greatly inspired by the following outstanding contributions to the open-source community: [NAVSIM](https://github.com/autonomousvision/navsim), [DiffusionDrive](https://github.com/hustvl/DiffusionDrive), [GTRS](https://github.com/NVlabs/GTRS).
 
-## Model Zoo
+## <span id="modelzoo">Model Zoo</span>
 
 | Split           | EPDMS | Results                               |
 | --------------- | ----- | ------------------------------------- |
@@ -94,8 +90,4 @@ If you find GuideFlow is useful in your research or applications, please conside
       url={https://arxiv.org/abs/2511.18729}, 
 }
 ```
-
-`<div  align="center">`
- `<img src="./figures/logo.jpg" width = "150"  align=center />`
-
 </div>
