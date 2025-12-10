@@ -6,6 +6,7 @@ Autonomous Driving</h3>
 
 Lin Liu <sup>1,2 </sup>, Caiyan Jia <sup>1,2*</sup>, Guanyi Yu <sup>3,†</sup>, Ziying Song <sup>1,2*</sup>,
 JunQiao Li <sup>3 </sup>, Feiyang Jia <sup>1 </sup>,Peiliang Wu <sup>1 </sup>, Xiaoshuai Hao <sup>5 </sup>, Yandan Luo <sup>5 </sup>
+
 <sup>1 </sup> School of Computer Science and Technology, Beijing Jiaotong University
 <sup>2 </sup> Beijing Key Laboratory of Traffic Data Mining and Embodied Intelligence
 <sup>3 </sup> Qcraft,  <sup>4 </sup>Yanshan University
