@@ -18,7 +18,7 @@ JunQiao Li <sup>3 </sup>, Feiyang Jia <sup>1 </sup>,Peiliang Wu <sup>1 </sup>, X
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 <div align="center">
-<b>Overall architecture of GuideFlow. </b>
+<b>Competition Resultw. </b>
 <img src="imgs/com.png"/>
 </div></div>
 
