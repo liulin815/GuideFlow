@@ -78,7 +78,7 @@ GuideFlow is greatly inspired by the following outstanding contributions to the 
 
 | Split           | EPDMS | Results                               |
 | --------------- | ----- | ------------------------------------- |
-| NavHard | 46.7 | [link](./assets/submission_51.31.44.pkl) |
+| NavHard | 46.7 | [link](./assets/navhard.pkl) |
 
 ## Citation
 
