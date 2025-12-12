@@ -76,6 +76,10 @@ GuideFlow is greatly inspired by the following outstanding contributions to the 
 | Private NavHard | 50.60 | [link](./assets/submission_50.60.pkl)    |
 | Private NavHard | 51.31 | [link](./assets/submission_51.31.44.pkl) |
 
+| Split           | EPDMS | Results                               |
+| --------------- | ----- | ------------------------------------- |
+| NavHard | 46.7 | [link](./assets/submission_51.31.44.pkl) |
+
 ## Citation
 
 If you find GuideFlow is useful in your research or applications, please consider giving us a star 🌟 and citing it by the following BibTeX entry.
