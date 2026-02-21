@@ -23,7 +23,7 @@ JunQiao Li <sup>3 </sup>, Feiyang Jia <sup>1 </sup>,Peiliang Wu <sup>1 </sup>, X
 </div></div>
 
 ## News
-
+* **` Feb. 21th, 2026`:** please refer to https://github.com/adept-thu/GuideFlow.
 * **` Nov. 24th, 2025`:** We released our paper on [Arxiv](https://arxiv.org/pdf/2511.18729)!.
 * **` Oct. 9th, 2025`:** **GuideFlow received 2nd and the Innovation Award during the Autonomous Grand Challenge 2025 !**.
 
